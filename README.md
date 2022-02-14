@@ -6,7 +6,7 @@ O projeto **Astromatch** foi desenvolvido durante o **Bootcamp da Labenu**, com 
 
 </h1>
 
-<source src="https://user-images.githubusercontent.com/83914842/153949323-6495d408-66b9-4282-a5bb-4f5c1cb3811b.mp4" type="video/mp4">
+https://user-images.githubusercontent.com/83914842/153949826-2a423435-f944-4fe3-b0f8-ee08a36342f9.mp4
 
 
 ---
